@@ -2,11 +2,17 @@
 ### Built for a real clinic in the Bronx, NY https://www.parkchestermedical.org
 ### Features
 * News Feed
-* Providers
-* Services
+* Doctors / Providers profile
+* Services / Departments profile
 * About us
-* Counters
+* FAQs
+* Testimonials
+* Dynamic Counters
 * Insurances
 * Pre-visit forms
 * Appointment Request + Email Notification for Practice
 * Admin Portal / Admin Users
+* Social Links
+* Dymanic Operating Hours
+* Practice Locations
+* Patient Portal Link
